@@ -72,7 +72,7 @@ public class Board  extends JPanel implements ActionListener{
 	public void loadimages()
 	{
 		ImageIcon catIcon = new ImageIcon("src/katze.jpg");
-		Cat = catIcon.getImage();
+		Cat = catIcon.getImage(); 
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
